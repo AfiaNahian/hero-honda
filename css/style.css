@@ -1,0 +1,41 @@
+.coloring{
+    color: #E77C40;
+}
+
+.honda-button{
+    background-image: linear-gradient(to bottom, black 0%, brown 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.top-button{
+    background-color: #E76F51;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.latest-button{
+    background-color: #ffffff;
+    border-color:  #E76F51;
+    color:  #E76F51;
+    border-radius: 8px;
+    padding: 10px 25px;
+}
+.latest-button:hover{
+    color: #ffffff;
+    background-color: #E76F51;
+}
+.honda-head{
+    background-color: #264653;
+}
+.honda-custom-color{
+    background-color: rgb(14, 8, 8);
+}
+.text-design{
+    color: blanchedalmond;
+}
+.grayimg{
+    filter: grayscale(1);
+}
